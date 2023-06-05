@@ -1,19 +1,20 @@
 # Personal Portfolio 🔥
 
-
+Link : https://ghostabhi4413.github.io/ghpages/
 :star: Star me on GitHub — it helps!
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-### Website Preview
-#### Home Page
+### Home Preview
+![image](https://github.com/GhostAbhi4413/ghpages/assets/96689091/ba991c1f-4217-4371-a5a4-331282964209)
 
 
 #### About Page
 
+![image](https://github.com/GhostAbhi4413/ghpages/assets/96689091/34cba5bc-9826-41cb-8593-47ac6ef63e08)
+
+#### Education Page
+
+![image](https://github.com/GhostAbhi4413/ghpages/assets/96689091/0ec4bb3f-4ab3-428b-85a4-4f7a9832ff02)
 
 
 #### Projects Page
@@ -21,31 +22,7 @@
   
 
 
-:star: Star me on GitHub — it helps!
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
-
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> 
-- Add or remove images from `assets/img/` directory as per your requirement.
-- Update the info of `projects` folder according to your need
-- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
-
-## Sections 📚
-✔️ About\
-✔️ Interests\
-✔️ Education\
-✔️ Online Certification\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
-✔️ Contact Info
 
 
 
@@ -70,7 +47,6 @@
 
 - 🔃 Create a new pull request.
 
-## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+
+
